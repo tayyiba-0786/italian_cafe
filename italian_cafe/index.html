@@ -1,0 +1,36 @@
+<!--
+Name: Tayyiba Hassan
+Roll No: 26I-3137
+Section: SE-C
+Lab 11: HTML, CSS and JavaScript
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Palermo Cafe</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>PALERMO CAFE</h1>
+<h2>Italian Cafe Menu</h2>
+<div class="menu-layout">
+<table>
+<tr><th>Items</th><th>Price</th></tr>
+<tr><td>Pizza</td><td>Rs. 1200</td></tr>
+<tr><td>Pasta</td><td>Rs. 900</td></tr>
+<tr><td>Lasagna</td><td>Rs. 1100</td></tr>
+<tr><td>Cappuccino</td><td>Rs. 450</td></tr>
+</table>
+<img src="images/cafe.svg" alt="Illustration of pizza at Palermo Cafe">
+</div>
+<button onclick="orderFood()">Order Now</button>
+<script>
+function orderFood() {
+window.alert("Thank you! Your order has been placed.");
+console.log("Order button was clicked");
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<rect width="400" height="300" fill="#f0d8b0"/>
+<ellipse cx="200" cy="160" rx="145" ry="110" fill="#fff8eb" stroke="#b77b4e" stroke-width="8"/>
+<circle cx="200" cy="155" r="94" fill="#d6a45f"/>
+<circle cx="200" cy="155" r="83" fill="#bc4b2f"/>
+<g fill="#f7df9c"><circle cx="170" cy="112" r="23"/><circle cx="239" cy="137" r="22"/><circle cx="181" cy="203" r="21"/><circle cx="236" cy="202" r="18"/></g>
+<g fill="#397c3b"><ellipse cx="202" cy="98" rx="10" ry="20" transform="rotate(25 202 98)"/><ellipse cx="143" cy="166" rx="10" ry="20" transform="rotate(-35 143 166)"/><ellipse cx="220" cy="177" rx="10" ry="20" transform="rotate(55 220 177)"/></g>
+<text x="200" y="285" font-size="18" text-anchor="middle" font-family="Arial" fill="#7e3121">Palermo Cafe</text>
+</svg>
